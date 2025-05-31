@@ -1,2 +1,2 @@
-/bin/bash ~/scripts/school-lab.sh &
-/bin/bash ~/scripts/start.sh
+/bin/bash ~/Sh/school-lab.sh &
+/bin/bash ~/Sh/start.sh
